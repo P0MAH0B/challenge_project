@@ -29,7 +29,16 @@
     background-color: #525252;
 
 }
+.ui-menu-color-interests {
+    background-color: #bb2424;
+
+}
+.ui-menu-color-github {
+    background-color: #223f7e;
+
+}
 /*.............Special paddings/margins/text...............*/
+
 
 h1,h2,h3,h4 {
     margin: 0;
