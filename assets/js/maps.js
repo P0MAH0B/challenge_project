@@ -20,7 +20,7 @@
                     label: labels[i % labels.length]
                 });
             });
-            var markerClusterer = new MarkerClusterer(map, markers,
+            var markerClusterer = new markerClusterer(map, markers,
             {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
         }
         
